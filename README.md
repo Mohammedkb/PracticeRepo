@@ -1,4 +1,4 @@
 PracticeRepo
 ============
 
-This is a practice repo for training purposes
+This is a new practice repo for training purposes.
